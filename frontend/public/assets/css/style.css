@@ -5019,7 +5019,9 @@ Widget Area CSS
 .widget-area .widget {
   margin-bottom: 25px;
 }
-
+.widget-area .moreSpace {
+  margin-bottom: 40px;
+}
 .widget-area .widget:last-child {
   margin-bottom: 0;
 }
@@ -11910,8 +11912,7 @@ Profile Authentication Area CSS
   padding-bottom: 100px;
   padding-left: 80px;
   margin-top: 20px;
-    margin-bottom: 20px;
- 
+  margin-bottom: 20px;
 }
 
 .page-banner-box.bg-2 {
